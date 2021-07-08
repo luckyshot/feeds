@@ -4,3 +4,73 @@ url = "https://getpocket.com/explore"
 entrySelector = "body > div > div > div"
 titleSelector = "a[data-cy='title-link']"
 linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreBusiness]
+title = "Pocket Explore"
+url = "https://getpocket.com/explore/business"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreEntertainment]
+title = "Pocket Explore"
+url = "https://getpocket.com/explore/entertainment"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreFood]
+title = "Pocket Explore Food"
+url = "https://getpocket.com/explore/food"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreHealth]
+title = "Pocket Explore Health"
+url = "https://getpocket.com/explore/health"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreParenting]
+title = "Pocket Explore Parenting"
+url = "https://getpocket.com/explore/parenting"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExplorePersonalFinance]
+title = "Pocket Explore Personal Finance"
+url = "https://getpocket.com/explore/personal-finance"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreScience]
+title = "Pocket Explore Science"
+url = "https://getpocket.com/explore/science"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreSelfImprovement]
+title = "Pocket Explore Self Improvement"
+url = "https://getpocket.com/explore/self-improvement"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreTechnology]
+title = "Pocket Explore Trechnology"
+url = "https://getpocket.com/explore/technology"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
+
+[pocketExploreTravel]
+title = "Pocket Explore Travel"
+url = "https://getpocket.com/explore/travel"
+entrySelector = "body > div > div > div"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
