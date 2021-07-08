@@ -2,5 +2,5 @@
 title = "Pocket Explore"
 url = "https://getpocket.com/explore"
 entrySelector = "body > div > div > div"
-titleSelector = "a[data-cy="title-link"]"
-linkSelector = "a[data-cy="title-link"]"
+titleSelector = "a[data-cy='title-link']"
+linkSelector = "a[data-cy='title-link']"
